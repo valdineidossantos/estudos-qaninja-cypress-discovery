@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Fernando Papito Teacher",
+        "cpf": "00000014141",
+        "email": "test@test.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postal_code": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "address_number": "1000",
+            "address_details": "Apto 402",
+            "district": "Itaim Bibi",
+            "city": "São Paulo/SP"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh_image": "cnh-digital.jpg"
+    },
+    "cpf_invalido": {
+        "name": "Dono do CPF Invalido",
+        "cpf": "AAA00014141",
+        "email": "cpf@invalido.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postal_code": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "address_number": "1000",
+            "address_details": "Apto 402",
+            "district": "Itaim Bibi",
+            "city": "São Paulo/SP"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh_image": "cnh-digital.jpg"
+    },
+    "email_invalido": {
+        "name": "Dono do email Invalido",
+        "cpf": "00000014141",
+        "email": "email.invalido.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postal_code": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "address_number": "1000",
+            "address_details": "Apto 402",
+            "district": "Itaim Bibi",
+            "city": "São Paulo/SP"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh_image": "cnh-digital.jpg"
+    }
+}
